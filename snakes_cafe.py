@@ -33,29 +33,7 @@ Unicorn Tears
 """
 )
 
-# initialize empty meal dictionary
-# dinner = {}
-#while True:
-# start loop here until user enters quit
 
-#quit = false
-
-# create a variable to store the user's order
- #   order = input("> ")
-  #  if order == 'quit':
-
-        # print the order in some fancy way we're still figuring out
-   # if order not in dinner:
-    #    dinner[order] = 1
-    #report = f"** {dinner} order of {order} have been added to your meal **"
-    #print =(report)
-
-    #else:
-    #dinner[order] += 1
-    #report = f"** {dinner[order] } orders of {order} have been added to your meal **"
-
-      #      print(report)
-# end loop
 
 
 item_count = 0
